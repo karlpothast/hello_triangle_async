@@ -12,7 +12,7 @@ devserver
 # run cargo watch (autobuilds wasm and js/html)
 cargo watch -c -x "build --release"
 
-## used the following tutorials for reference
+## references
 ## https://rust-tutorials.github.io/triangle-from-scratch/web_stuff/web_gl_with_bare_wasm.html
 ## https://github.com/kettle11/hello_triangle_wasm_rust
 ## https://www.tutorialspoint.com/webgl/webgl_drawing_a_triangle.htm
