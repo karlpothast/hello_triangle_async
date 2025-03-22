@@ -4,6 +4,7 @@ rustup target add wasm32-unknown-unknown
 cargo install devserver
 # install cargo watch
 cargo install cargo-watch 
+# run cargo watch
 cargo watch -c -x "build --release"
 
 # build wasm
